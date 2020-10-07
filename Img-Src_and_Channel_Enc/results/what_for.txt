@@ -1,0 +1,12 @@
+##--------------------------------Results Folder ------------------------------------
+##        September, 2020
+##        Copyright (C) 2020 by
+##        Belinda Brown Ramírez
+##        (timna.brown@ucr.ac.cr)
+##
+##-----------------------------------------------------------------------------
+
+What for?
+
+This folder is needed because
+is where the results are.
