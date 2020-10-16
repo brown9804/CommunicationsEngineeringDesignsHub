@@ -15,9 +15,7 @@ results in plain text format inside ``results`` folder.
 ## Integrants
 1. Brown Ramírez, Timna Belinda  B61254
 2. Esquivel Molina, Brandon B52571
-3. Sosa, Heillen B26567
-4. Bermúdez, Daniel B50999
-5. Hernández, Miguel A42600
+
 
 ### Important
 Change paths inside ``TxtEncryp_Decryp.py`` according with your machine.
