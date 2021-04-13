@@ -1,6 +1,5 @@
-# Analog to a Digital Signal
-#          &
-# Modem Simulation
+<h1 align="center"> Analog Digital Converter & Modem Simulation</h1>
+
 
 ## University of Costa Rica
 #### November, 2020
