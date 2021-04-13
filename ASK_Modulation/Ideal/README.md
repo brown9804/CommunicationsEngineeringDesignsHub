@@ -1,4 +1,4 @@
-# ASK Pass Band modulation in a noisy environment
+# ASK Pass Band Modulation in a Noisy Environment
 
  ------------------------------------------
 ### University of Costa Rica
