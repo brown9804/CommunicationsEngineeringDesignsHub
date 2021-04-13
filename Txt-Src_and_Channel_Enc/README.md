@@ -1,4 +1,4 @@
-# Text system communication
+# Text System Communication
 The encryption and decryption algorithm is done in python. 
 For the data compression method the huffman algorithm is implemented using the C & C++ languages.
 
