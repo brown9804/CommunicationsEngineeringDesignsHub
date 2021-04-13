@@ -1,4 +1,4 @@
-# Baseband modulation in a noisy environment
+# Baseband Modulation in a Noisy Environment
  ------------------------------------------
 ### University of Costa Rica
 #### September, 2020
